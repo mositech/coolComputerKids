@@ -10,7 +10,8 @@ Discover the playful side of computers and robotics through building and learnin
 
 ## Lesson Plan
 #### Week 1
-* Demo MS Paint on projector. Afterwards read short story to class. Instruct students to draw a picture depicting their favorite part of the book.
+* Demo MS Paint on projector. Afterwards read short story to class. 
+ * Instruct students to draw a picture depicting their favorite part of the book.
 * [Code.org Happy Maps Activity](https://studio.code.org/s/course1/stage/1/puzzle/1) Follow lesson plan at this link.
  * Vocab: ***Algorithm*** - A list of steps that you can follow to finish a task.
 * Begin "Drag and Drop" practice at [Code.org](https://studio.code.org/s/course1/stage/3/puzzle/1)
@@ -18,10 +19,36 @@ Discover the playful side of computers and robotics through building and learnin
 * [Practice mouse control](http://practicadelmouse.altervista.org/)
 
 #### Week 2
+* [Practice Typing at abcYa.com](http://www.abcya.com/keyboarding_practice.htm)
+* Finish up first section at [Code.org](https://studio.code.org/s/course1)
+* [Real world algorithms: Plant a Seed](https://studio.code.org/s/course1/stage/6/puzzle/1)
+ * Start by reviewing last week's unplugged programming activity - [Happy Maps](https://studio.code.org/s/course1/stage/1/puzzle/1)
+ * Vocab: ***Algorithm*** - A list of steps that you can follow to finish a task.
+ * [Handout #1](https://code.org/curriculum/course1/6/Activity6-RealLifeAlgorithms.pdf)
+ * [Handout #2](https://code.org/curriculum/course1/6/Assessment6-RealLifeAlg.pdf)
+* [Code.org activities](https://studio.code.org/s/course1)
+* [Counting and mouse practice](http://www.abcya.com/connect_the_dots_10.htm)
+* [Mouse practice and spelling -an words](http://www.starfall.com/n/make-a-word/an/load.htm?f)
+* [Practice mouse control](http://practicadelmouse.altervista.org/)
 
 #### Week 3
+* [Bees and Honey Game](http://www.tvokids.com/play/bees_and_honey/bee2blueback.swf)
+* [Practice Typing at abcYa.com](http://www.abcya.com/keyboarding_practice.htm)
+* [Getting Loopy](https://studio.code.org/s/course1/stage/12/puzzle/1)
+ * [Handout #1](https://code.org/curriculum/course1/12/Assessment12-GettingLoopy.pdf) 
+ * Vocab: ***Loop*** - The act of doing something over and over again.
+* [Code.org activities](https://studio.code.org/s/course1)
+* Green screen activity with "Do Ink" Ipad app
+ * Download age appropriate backgrounds for the kids to be creative with. 
 
 #### Week 4
+ * Demo [Scratch Jr.](http://www.scratchjr.org/)
+  * Allow for individual exploration. 
+  * Ask students to create a story with their characters. Make sure that they know how to add new characters.
+ * [Binary Baubles Activity](https://code.org/files/CSEDbinary.pdf)
+  * Create bead necklaces for each student's initials. They now are wearing a secret code!
+ * [Internet safety activity](https://studio.code.org/s/course1/stage/17/puzzle/1)
+  * Prior to this class ask parents if this activity is ok for their child. Request that parents send their kids with an email adress with which to make a user account on [Secret Builders - Create Username](http://www.secretbuilders.com/gameplay/gameplay.html).
 
 ## Resource References
 * http://www.educationworld.com/a_tech/tech/tech209.shtml
