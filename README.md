@@ -2,7 +2,7 @@
 
 * **Class:** [MOSI Cool Computer Kids](http://www.campfun.org/cocokia57.html)
 * **Instructor:** Chase Starr, [chase.starr@mosi.org](mailto:chase.starr@mosi.org)
-* **Need Help?**
+* **Questions?**
   * [Email](mailto:chase.starr@mosi.org) for 1-on-1 assistance.
 
 ## Class Description
