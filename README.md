@@ -19,16 +19,14 @@ Discover the playful side of computers and robotics through building and learnin
 * [Practice mouse control](http://practicadelmouse.altervista.org/)
 
 #### Week 2
-* [Practice Typing at abcYa.com](http://www.abcya.com/keyboarding_practice.htm)
-* Finish up first section at [Code.org](https://studio.code.org/s/course1)
+* [LEGO WeDo Robotics](https://www.youtube.com/watch?v=4t7gyeR7MUY)
+ * Instruct how to program with WeDos. Allow for build time
 * [Real world algorithms: Plant a Seed](https://studio.code.org/s/course1/stage/6/puzzle/1)
  * Start by reviewing last week's unplugged programming activity - [Happy Maps](https://studio.code.org/s/course1/stage/1/puzzle/1)
  * Vocab: ***Algorithm*** - A list of steps that you can follow to finish a task.
  * [Handout #1](https://code.org/curriculum/course1/6/Activity6-RealLifeAlgorithms.pdf)
  * [Handout #2](https://code.org/curriculum/course1/6/Assessment6-RealLifeAlg.pdf)
 * [Code.org activities](https://studio.code.org/s/course1)
-* [Counting and mouse practice](http://www.abcya.com/connect_the_dots_10.htm)
-* [Mouse practice and spelling -an words](http://www.starfall.com/n/make-a-word/an/load.htm?f)
 * [Practice mouse control](http://practicadelmouse.altervista.org/)
 
 #### Week 3
@@ -40,6 +38,7 @@ Discover the playful side of computers and robotics through building and learnin
 * [Code.org activities](https://studio.code.org/s/course1)
 * Green screen activity with "Do Ink" Ipad app
  * Download age appropriate backgrounds for the kids to be creative with. 
+* [Counting and mouse practice](http://www.abcya.com/connect_the_dots_10.htm)
 
 #### Week 4
  * Demo [Scratch Jr.](http://www.scratchjr.org/)
