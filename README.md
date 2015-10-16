@@ -30,15 +30,15 @@ Discover the playful side of computers and robotics through building and learnin
 * [Practice mouse control](http://practicadelmouse.altervista.org/)
 
 #### Week 3
-* [Bees and Honey Game](http://www.tvokids.com/play/bees_and_honey/bee2blueback.swf)
-* [Practice Typing at abcYa.com](http://www.abcya.com/keyboarding_practice.htm)
+* Green screen activity with "Do Ink" Ipad app
+ * Download age appropriate backgrounds for the kids to be creative with. 
 * [Getting Loopy](https://studio.code.org/s/course1/stage/12/puzzle/1)
  * [Handout #1](https://code.org/curriculum/course1/12/Assessment12-GettingLoopy.pdf) 
  * Vocab: ***Loop*** - The act of doing something over and over again.
 * [Code.org activities](https://studio.code.org/s/course1)
-* Green screen activity with "Do Ink" Ipad app
- * Download age appropriate backgrounds for the kids to be creative with. 
 * [Counting and mouse practice](http://www.abcya.com/connect_the_dots_10.htm)
+* [Bees and Honey Game](http://www.tvokids.com/play/bees_and_honey/bee2blueback.swf)
+* [Practice Typing at abcYa.com](http://www.abcya.com/keyboarding_practice.htm)
 
 #### Week 4
  * Demo [Scratch Jr.](http://www.scratchjr.org/)
