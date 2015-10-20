@@ -30,7 +30,7 @@ Discover the playful side of computers and robotics through building and learnin
 * [Practice mouse control](http://practicadelmouse.altervista.org/)
 
 #### Week 3
-* Green screen activity with "Do Ink" Ipad app
+* Green screen activity with "[Do Ink](https://itunes.apple.com/us/app/green-screen-by-do-ink/id730091131?mt=8&ign-mpt=uo%3D4)" Ipad app
  * Download age appropriate backgrounds for the kids to be creative with. 
 * [Getting Loopy](https://studio.code.org/s/course1/stage/12/puzzle/1)
  * [Handout #1](https://code.org/curriculum/course1/12/Assessment12-GettingLoopy.pdf) 
