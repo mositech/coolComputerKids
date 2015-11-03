@@ -52,7 +52,7 @@ Discover the playful side of computers and robotics through building and learnin
 #### Week 5
  * Draw your neighbor's portrait in MS Paint
  * Demo [Scratch](https://scratch.mit.edu/)
-  * Instruct students to "try it out" link. 
+  * Instruct students to "[try it out](https://scratch.mit.edu/projects/editor/?tip_bar=getStarted)" link. 
   * Show students the instructions on the right side of the screen.
  * [Practice mouse control](http://practicadelmouse.altervista.org/)
   
